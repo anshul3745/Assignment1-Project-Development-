@@ -25,3 +25,6 @@ Enter in the following details:
     Total Income Tax:	
     Income Taxes Paid:	
     Income taxes Payable:
+    
+    Choosing MIT licenese for this project:
+    The main reason to choose MIT license is that it gives the users express permission to reuse the code for any purpose. Sometimes even if the code is part of    proprietary software. Basically, the user can do whatever they want as long as they include the original copyright and license notice in any copy of the software/source. There are many variations of this license in use.
